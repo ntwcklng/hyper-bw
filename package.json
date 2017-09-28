@@ -1,0 +1,23 @@
+{
+  "name": "hyper-bw",
+  "version": "1.0.0",
+  "description": "Black and White Theme for Hyper",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ntwcklng/hyper-bw.git"
+  },
+  "keywords": [
+    "black",
+    "white",
+    "hyper",
+    "hyperterm",
+    "theme"
+  ],
+  "author": "Marvin Mieth <ntwcklng@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ntwcklng/hyper-bw/issues"
+  },
+  "homepage": "https://github.com/ntwcklng/hyper-bw#readme"
+}
