@@ -2,7 +2,8 @@ const WHITE = '#ffffff'
 const BLACK = '#000000'
 const backgroundColor = BLACK
 const foregroundColor = WHITE
-const borderColor = backgroundColor;
+const borderColor = backgroundColor
+const cursorColor = WHITE
 
 const colors = {
   black: BLACK,
